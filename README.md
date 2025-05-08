@@ -9,3 +9,16 @@ might help with the notation for mathematical expressions.
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
+
+PROOF:
+
+Graph A:
+$G_1 = (V_1, E_1)$, where
+$V_1 = {1, 2, 3}$
+$E_1 = {(1,2)}$
+
+
+Graph B:
+$G_2 = (V_2, E_2)$, where
+$V_2 = {a, b, c}$
+$E_2 = {(a,b)}$
