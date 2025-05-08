@@ -19,7 +19,8 @@ $G_2 = (V_2, E_2)$, where $V_2 = {a, b, c}$ $E_2 = {(x,y)}$
 
 We can define a bijective function $f : V_1 \rightarrow V_2$ such that: $f(1) = a$, $f(2) = b$, $f(3) = c$
 
-We have to make sure the edges are the same: Because $(1,2) \in E_1$, we have $(f(1), f(2)) = (x,y) \in E_2$
+Since $(1,2) \in E_1$, we have $(f(1), f(2)) = (a,b) \in E_2$.
+All other pairs not in $E_1$ also map to pairs not in $E_2$, so the edge structure is preserved.
 Therefore, $G_1$ is isomorphic to $G_2$, but neither graph is completely connected.
 
 This proves that isomorphic graphs do not need to be completely connected.
