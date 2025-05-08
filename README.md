@@ -15,7 +15,7 @@ PROOF:
 $G_1 = (V_1, E_1)$, where $V_1 = {1, 2, 3}$ $E_1 = {(1,2)}$
 
 
-$G_2 = (V_2, E_2)$, where $V_2 = {a, b, c}$ $E_2 = {(x,y)}$
+$G_2 = (V_2, E_2)$, where $V_2 = {a, b, c}$ $E_2 = {(a,b)}$
 
 We can define a bijective function $f : V_1 \rightarrow V_2$ such that: $f(1) = a$, $f(2) = b$, $f(3) = c$
 
