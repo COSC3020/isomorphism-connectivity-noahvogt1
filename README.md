@@ -2,7 +2,7 @@
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
-I had some help from some other students by looking at their repositories and seeing they did it with a proof by counterexample and I used the same idea.
+I had some help from some other students by looking at their repositories and seeing they did it with a proof by counterexample and I used the same idea. I looked at regtoga and Dojeedev.
 
 Prove that if two graphs $A$ and $B$ are isomorphic they do *not* have to
 be completely connected. I have started with the formal definition of
